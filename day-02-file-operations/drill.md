@@ -11,14 +11,14 @@ remove only the empty directories left behind.
 ```bash
 mkdir -p practice/2026/april
 
-touch practice/2026/april/file1.txt \
-practice/2026/april/file2.txt \
-practice/2026/april/file3.txt
+touch practice/2026/april/20.txt \
+practice/2026/april/30.txt \
+practice/2026/april/40.txt
 
 cp -r practice backup
 
-mv practice/2026/april/file1.txt \
-practice/2026/april/renamed.txt
+mv practice/2026/april/20.txt \
+practice/2026/april/renamed
 
 ls -R practice
 ls -R backup
