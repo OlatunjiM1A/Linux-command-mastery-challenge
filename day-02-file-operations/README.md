@@ -14,7 +14,7 @@ I practiced creating directories and files, copying files and directories, movin
 
 ## What Surprised Me
 
-[Write your own observation or mistake here.]
+I learned that Linux options are case-sensitive. I initially used ls -r instead of ls -R, which taught me that a lowercase and uppercase option can perform completely different operations.
 
 ## Evidence
 
