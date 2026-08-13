@@ -14,7 +14,7 @@ I worked with a Linux log file and used different commands to view its contents,
 
 ## What Surprised Me
 
-
+The commands I thought were just for "reading files" turn out to also be early-warning tools in log analysis. Stat catches tampered timestamps, wc -l flags abnormal log spikes, and tail -f shows an attack happening live.
 
 ## Evidence
 
