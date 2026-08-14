@@ -14,7 +14,7 @@ I searched the filesystem by filename, file type, size, modification time, and p
 
 ## What Surprised Me
 
-
+How can 'locate' be and can't be a faster version of find. it can't be if a file was created after the last updatedb run, locate won't see it at all, even though it's sitting right there on disk. and can be if a file was created before the last updatedb is runned.
 
 ## Evidence
 
