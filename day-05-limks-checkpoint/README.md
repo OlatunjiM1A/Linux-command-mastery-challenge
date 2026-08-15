@@ -31,7 +31,7 @@ See the screenshots in the `evidence/` folder.
 
 ## LinkedIn Article
 
-[Day 5 — Phase 1 Checkpoint](./(https://lnkd.in/p/eVfksTg4)/)
+[Day 5 — Phase 1 Checkpoint](./(https://lnkd.in/p/eVfksTg4)/.)
 
 ## Related
 
