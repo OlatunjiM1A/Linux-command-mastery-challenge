@@ -15,7 +15,7 @@ My goal is not just to memorize commands, but to understand when and why to use 
 | 1 | File Navigation & Filesystem Mastery | ✅ Complete | [Day 1](./day-01-file-navigation/) |
 | 2 | File Operations | ✅ Complete | [Day 2](./day-02-file-operations/) |
 | 3 | Reading & Inspecting Files | ✅ Complete |  [Day 3](./day-03-file-inspection/) |
-| 4 | Searching the Filesystem | ⏳ Not Started |  [Day 4](. ) | 
+| 4 | Searching the Filesystem | ⏳ Not Started |  [Day 4](./day-04-filesystem-search ) | 
 | 5 | Paths, Links & Tree Structures | ⏳ Not Started |   [Day 5](.) |
 | 6 | Reading & Setting Permissions | ⏳ Not Started |  coming soon...
 | 7 | Ownership & Special Bits | ⏳ Not Started |  coming soon...
