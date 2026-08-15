@@ -18,11 +18,12 @@ I created a symbolic link to a configuration file, resolved its real path, displ
 
 ## What I Learned
 
-[Write your own observation after completing the checkpoint.]
+I learned that hard links and symbolic links are not the same. A hard link directly references the same underlying file through the inode, while a symbolic link points to the path of another file.
+
 
 ## What Surprised Me
 
-[Write your genuine observation.]
+What surprised me was that the hard link and the original file had exactly the same inode number, while the symbolic link had a different inode and clearly showed what file it was pointing to. I also initially got an error when creating the configuration-file link because I had not created the `day5-practice` directory yet.
 
 ## Evidence
 
