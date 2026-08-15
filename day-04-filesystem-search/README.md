@@ -22,7 +22,7 @@ See the terminal screenshots in the `evidence/` folder.
 
 ## LinkedIn Article
 
-[Day 4 — Searching the Filesystem][(YOUR-LINKEDIN-ARTICLE-LINK)
+[Day 4 — Searching the Filesystem][(MY-LINKEDIN-ARTICLE-LINK)
 ](https://lnkd.in/p/eVfksTg4)
 ## Related
 
