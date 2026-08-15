@@ -8,12 +8,12 @@ a hard link and a symbolic link.
 
 ## Configuration File Used
 
-[Write the config file you actually used.]
+`/etc/adduser.conf`
 
 ## Commands I Ran
 
 ```bash
-ln -s [config-file] [link]
-readlink [link]
-realpath [link]
+ln -s `/etc/adduser.conf` ~/day5-practice/config-link
+readlink ~/day5-practice/config-link[link]
+realpath ~/day5-practice/config-link
 tree /etc -L 2  km l;l
