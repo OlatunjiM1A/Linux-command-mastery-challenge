@@ -12,7 +12,7 @@ I created a script file and practiced changing its permissions using relative, a
 
 ## What Surprised Me
 
-[Write one honest observation or mistake after completing the drill.]
+**What surprised me was that the three different `chmod` methods could produce exactly the same `rwxr-xr-x` permission state. Seeing the permission string remain the same after each method helped me understand how the different `chmod` formats relate to each other.**
 
 ## Evidence
 
