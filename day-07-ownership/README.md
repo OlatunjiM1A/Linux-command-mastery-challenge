@@ -12,7 +12,7 @@ I practiced changing file ownership and group ownership, working with SUID, SGID
 
 ## What Surprised Me
 
-
+I was surprised that the SGID bit appears as an s in the directory permissions instead of the usual x. I also noticed that my new file inherited the cyrix group from the shared directory.
 
 ## Evidence
 
