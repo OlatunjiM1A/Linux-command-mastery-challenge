@@ -24,4 +24,5 @@ Screenshot or terminal transcript of the drill in evidence/.
 
 ## Related
 Previous day: ../day-07-ownership/
+
 Next day: ../day-09-integrity-firewall/
