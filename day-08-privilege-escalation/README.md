@@ -13,7 +13,7 @@ After that, I checked exactly which commands my account is permitted to
 run as another user using sudo -l.
 
 ## What surprised me
-I didn't realize sudo !! re-runs your last command with sudo prefixed
+I didn't realize sudo !! re-runs ones last command with sudo prefixed
 automatically — no need to retype anything. Also surprising: sudo -l
 shows you the exact boundaries of your access before you even try
 something, which is a much safer way to check permissions than trial
