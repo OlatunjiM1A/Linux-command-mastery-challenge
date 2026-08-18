@@ -4,7 +4,7 @@
 
 ## Commands covered today
 See commands.md for all 10 commands with syntax and my own explanation
-of what each one does and when I would reach for it.
+of what each one does.
 
 ## What I practiced
 I ran a command that failed due to lack of permission, then instantly
