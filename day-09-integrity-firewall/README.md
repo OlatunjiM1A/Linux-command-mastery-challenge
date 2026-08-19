@@ -14,9 +14,7 @@ leaving everything else closed.
 
 ## What surprised me
 I didn't expect chattr +i to override normal permissions entirely —
-even as the file's owner with full rwx permissions, I still couldn't
-delete or edit it until I removed the immutable flag. It's a stronger
-lock than chmod alone.
+even as the file's owner with full rwx permissions. Also, I expected UFW to be available by default, but my WSL Ubuntu installation didn't have it installed. I had to install the firewall package before I could use the UFW commands.
 
 ## Evidence
 Screenshot or terminal transcript of the drill in evidence/.
