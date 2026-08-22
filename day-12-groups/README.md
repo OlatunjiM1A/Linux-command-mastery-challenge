@@ -14,6 +14,10 @@ See commands.md for all 10 commands with syntax and my own explanation of what e
 
 Linux groups provide a practical way to manage users collectively instead of assigning access individually to every user.
 
+What Surprised Me
+
+I was surprised that removing a user from a group and deleting the group are two different operations. A user can be removed from a group without deleting the user account itself.
+
 ## Evidence
 
 Screenshots and other evidence from the Day 12 terminal practice are stored in the `evidence/` directory.
