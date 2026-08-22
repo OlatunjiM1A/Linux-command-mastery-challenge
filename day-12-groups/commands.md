@@ -1,4 +1,4 @@
-## Day 11 Commands - Groups & Access Circles
+## Day 12 Commands - Groups & Access Circles
 
 1. `groupadd` — Create a new group
 2. `groupdel` — Delete a group
