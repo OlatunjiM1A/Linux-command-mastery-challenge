@@ -7,10 +7,15 @@ configuration files.
 
 ## Commands run, in order
 
-sudo apt update
+sudo apt update 
+
 apt search tree
+
 sudo apt install tree
+
 apt show tree
+
 sudo apt purge tree
+
 sudo apt autoremove
 
