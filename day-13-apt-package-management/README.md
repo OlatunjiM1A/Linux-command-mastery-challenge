@@ -22,4 +22,5 @@ Screenshot or terminal transcript of the drill in evidence/.
 
 ## Related
 Previous day: ../day-12-groups/
+
 Next day: ../day-14-dnf-yum/
