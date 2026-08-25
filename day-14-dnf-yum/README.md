@@ -22,4 +22,5 @@ Screenshot or terminal transcript of the drill in evidence/.
 
 ## Related
 Previous day: ../day-13-apt-package-management/
+
 Next day: ../day-15-provisioning-checkpoint/
