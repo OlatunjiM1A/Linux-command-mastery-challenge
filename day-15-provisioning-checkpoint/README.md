@@ -15,3 +15,13 @@ their role, all in a single documented sequence.
 Doing this as one continuous workflow instead of isolated commands made
 it obvious how much order matters — creating the user and setting groups
 has to happen before the password step makes sense, and installing
+tools only matters once the account can actually log in and use them.
+It felt like the first day that resembled real onboarding work rather
+than isolated command practice.
+
+## Evidence
+Screenshot or terminal transcript of the drill in evidence/.
+
+## Related
+Previous day: ../day-14-dnf-yum/
+Next day: ../day-16-environment-variables/
