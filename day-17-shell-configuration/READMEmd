@@ -1,1 +1,26 @@
+# Day 17: Persisting Configuration
 
+## Phase 4 - Environment, Vim & Text Processing | Day 17 of 30
+
+## Commands covered today
+See commands.md for all 10 commands with syntax and my own explanation
+of what each one does and when I would reach for it.
+
+## What I practiced
+I added a permanent environment variable and a custom alias to my
+.bashrc, reloaded it with source instead of opening a new terminal, and
+confirmed both persisted in a fresh session afterward.
+
+## What surprised me
+Yesterday I learned export only lasts for the current session — today
+made that click fully. Putting the same export line inside .bashrc is
+what actually makes it permanent, since .bashrc runs automatically
+every time a new shell starts. The variable itself doesn't change; it's
+just where you define it that determines whether it survives.
+
+## Evidence
+Screenshot or terminal transcript of the drill in evidence/.
+
+## Related
+Previous day: ../day-16-environment-variables/
+Next day: ../day-18-vim-fundamentals/
