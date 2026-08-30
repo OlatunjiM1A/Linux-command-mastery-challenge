@@ -29,8 +29,8 @@ My goal is not just to memorize commands, but to understand when and why to use 
 | 15 | Users & Packages Checkpoint | ✅ Complete |  [Day 15](day-15-provisioning-checkpoint)
 | 16 | Environment Variables | ✅ Complete | [Day 16](day-16-environment-variables)
 | 17 | Persisting Configuration | ✅ Complete | [Day 17](day-17-shell-configuration)
-| 18 | Vim Fundamentals | ⏳ Not Started |  coming soon...
-| 19 | Vim Navigation & Search/Replace | ⏳ Not Started | [ coming soon...
+| 18 | Vim Fundamentals | ⏳ Not Started | [Day 18]()
+| 19 | Vim Navigation & Search/Replace | ⏳ Not Started | [Day 19](day-17-shell-configuration)
 | 20 | Text Processing & Pipes | ⏳ Not Started | [Day 20](./day-20-text-processing-checkpoint/) |
 | 21 | Viewing Processes | ⏳ Not Started | [Day 21](./day-21-viewing-processes/) |
 | 22 | Controlling Processes with Signals | ⏳ Not Started | [Day 22](./day-22-process-signals/) |
