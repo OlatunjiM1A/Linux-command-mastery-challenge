@@ -31,9 +31,9 @@ My goal is not just to memorize commands, but to understand when and why to use 
 | 17 | Persisting Configuration | ✅ Complete | [Day 17](day-17-shell-configuration)
 | 18 | Vim Fundamentals |  ✅ Complete | [Day 18](day-18-vim-fundamentals)
 | 19 | Vim Navigation & Search/Replace |  ✅ Complete | [Day 19](day-19-vim-search-replace)
+| 20 | Text Processing & Pipes | ✅ Complete | [Day 20](./day-20-text-processing-checkpoint/) |
+| 21 | Viewing Processes | ✅ Complete | [Day 21](./day-21-viewing-processes/) |
 
-| 20 | Text Processing & Pipes | ⏳ Not Started | [Day 20](./day-20-text-processing-checkpoint/) |
-| 21 | Viewing Processes | ⏳ Not Started | [Day 21](./day-21-viewing-processes/) |
 | 22 | Controlling Processes with Signals | ⏳ Not Started | [Day 22](./day-22-process-signals/) |
 | 23 | Init Systems & systemctl Basics | ⏳ Not Started | [Day 23](./day-23-systemctl-basics/) |
 | 24 | Deeper Service Management & Logs | ⏳ Not Started | [Day 24](./day-24-service-logs/) |
