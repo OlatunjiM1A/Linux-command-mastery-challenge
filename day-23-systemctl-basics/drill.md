@@ -7,10 +7,10 @@ its active and enabled state.
 
 ## Commands run, in order
 
-sudo systemctl stop ssh
-systemctl is-active ssh
-sudo systemctl restart ssh
-sudo systemctl enable --now ssh
-systemctl is-active ssh
-systemctl is-enabled ssh
+sudo systemctl stop cron
+systemctl is-active cron
+sudo systemctl restart cron
+sudo systemctl enable --now cron
+systemctl is-active cron
+systemctl is-enabled cron
 
