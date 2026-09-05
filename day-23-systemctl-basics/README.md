@@ -23,4 +23,5 @@ Screenshot or terminal transcript of the drill in evidence/.
 
 ## Related
 Previous day: ../day-22-process-signals/
+
 Next day: ../day-24-service-logs/
