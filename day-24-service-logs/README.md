@@ -12,11 +12,9 @@ for one specific service, filtered down to errors only, and followed
 that service's log output live for a minute.
 
 ## What surprised me
-I didn't expect journalctl to be this granular — being able to filter
-by a specific service, a time range, and a severity level (errors only)
-all at once meant I could go straight to what mattered instead of
-scrolling through an entire day's worth of unrelated log noise.
-
+the fact that most of my filtered results came back empty, which itself confirmed 
+the filters were working correctly rather than being a mistake. And it happens on both the wsl
+and the VM manchine
 ## Evidence
 Screenshot or terminal transcript of the drill in evidence/.
 
