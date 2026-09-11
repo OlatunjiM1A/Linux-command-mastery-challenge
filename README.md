@@ -37,10 +37,10 @@ My goal is not just to memorize commands, but to understand when and why to use 
 | 23 | Init Systems & systemctl Basics | ✅ Complete  | [Day 23](./day-23-systemctl-basics/) |
 | 24 | Deeper Service Management & Logs | ✅ Complete  | [Day 24](./day-24-service-logs/) |
 | 25 | Process & Service Checkpoint | ✅ Complete | [Day 25](./day-25-operational-snapshot-checkpoint/) |
+| 26 | Networking Basics | ✅ Complete | [Day 26](./day-26-networking-basics/) |
+| 27 | Remote Access & File Transfer | ✅ Complete | [Day 27](./day-27-ssh-file-transfer/) |
+| 28 | Bash Scripting Foundations | ✅ Complete| [Day 28](./day-28-bash-scripting/) |
 
-| 26 | Networking Basics | ⏳ Not Started | [Day 26](./day-26-networking-basics/) |
-| 27 | Remote Access & File Transfer | ⏳ Not Started | [Day 27](./day-27-ssh-file-transfer/) |
-| 28 | Bash Scripting Foundations | ⏳ Not Started | [Day 28](./day-28-bash-scripting/) |
 | 29 | Functions, Arguments & Automation | ⏳ Not Started | [Day 29](./day-29-functions-automation/) |
 | 30 | Capstone: Full System Command Mastery Review | ⏳ Not Started | [Day 30](./day-30-capstone/) |
 
