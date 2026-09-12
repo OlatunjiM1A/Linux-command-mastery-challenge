@@ -40,8 +40,8 @@ My goal is not just to memorize commands, but to understand when and why to use 
 | 26 | Networking Basics | ✅ Complete | [Day 26](./day-26-networking-basics/) |
 | 27 | Remote Access & File Transfer | ✅ Complete | [Day 27](./day-27-ssh-file-transfer/) |
 | 28 | Bash Scripting Foundations | ✅ Complete| [Day 28](./day-28-bash-scripting/) |
+| 29 | Functions, Arguments & Automation | ✅ Complete | [Day 29](./day-29-functions-automation/) 
 
-| 29 | Functions, Arguments & Automation | ⏳ Not Started | [Day 29](./day-29-functions-automation/) |
 | 30 | Capstone: Full System Command Mastery Review | ⏳ Not Started | [Day 30](./day-30-capstone/) |
 
 ## About Me
